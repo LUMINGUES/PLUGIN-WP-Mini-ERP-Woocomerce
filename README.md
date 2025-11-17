@@ -1,6 +1,6 @@
 <img width="1536" height="672" alt="UX TOTALMENTE MODERNO E DE FÁCIL OPERAÇÃO (1)" src="https://github.com/user-attachments/assets/013b62be-4609-4bb9-a3fe-1dbcb64be80b" />
 
-## 🚀 Mini ERP WC - Produtos, Clientes e Vendas (WooCommerce Integrado)
+## 🚀 PLUGIN Mini ERP WC - Produtos, Clientes e Vendas (WooCommerce Integrado)
 
 **Plugin Name:** Mini ERP WC - Produtos, Clientes e Vendas (WooCommerce Integrado)
 **Versão:** 1.7.0
